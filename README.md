@@ -31,7 +31,13 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyagrg23&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
+<br>
+<details>	
+ <summary><b>Badge 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</div>
+</details>
 
 <!--
 **lakshyagrg23/lakshyagrg23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
