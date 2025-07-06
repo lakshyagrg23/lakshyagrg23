@@ -8,18 +8,49 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/lakshya-garg23" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 8px"></a></p>
+<h3 align="left">⭐ Full Stack Developer passionate about solving real-world problems using AI and modern web technologies.</h3>
 
- **<h3 align="left">🚀 Aspiring Full Stack Web Developer currently focusing on Node.js, React and PostgreSQL.</h3>**
+- 💼 I'm currently working on: **Building scalable backend services and AI-powered web applications**
+- 🌱 Learning and exploring: **Cloud deployment, distributed systems, and advanced AI integrations**
+- ⚙️ Tech I work with: **JavaScript, React, Node.js, PostgreSQL, AI/ML workflows, and cloud architecture**
+
+<h3 align="left">Skills</h3>
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python">
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript">
+
+  <!-- Web & App Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="JQuery">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS">
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="48" height="48" alt="Firebase">
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase">
+
+  <!-- DevOps & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="NGINX">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="48" height="48" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS">
+</div>
 
 
-- 💼 I'm currently working on: **💻 Becoming proficient in MERN stack**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, PostgreSQL, and RESTful APIs**
-
- **<h3 align="left">Skills</h3>**
-
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48" alt="HTML5" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48" alt="CSS3" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="48" alt="Node.js" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="48" alt="React" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="Express" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="48" alt="MongoDB" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" alt="SQLite" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=jquery" height="48" alt="JQuery" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" style="margin-right: 12px"></p>
 
  **<h3 align="left">GitHub Stats</h3>**
 
